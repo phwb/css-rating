@@ -1,4 +1,6 @@
-За основу взят [пример](https://codepen.io/jamesbarnett/pen/vlpkh) и не много упрощен.
+# Рейтин на чистом CSS
+
+За основу взят [пример](https://codepen.io/jamesbarnett/pen/vlpkh) и не много упрощен. [Демо](https://codepen.io/yvv/pen/VrJdNe)
 
 ### Структура HTML
 ```html
@@ -23,7 +25,7 @@
 }
 
 .rating > label {
-  color: grey;
+  color: #ddd;
 }
 
 .rating > label:before {
@@ -34,6 +36,6 @@
 }
 
 .rating > input:checked ~ label {
-  color: yellow;
+  color: #f6ab1a;
 }
 ```
