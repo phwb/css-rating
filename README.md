@@ -1,4 +1,4 @@
-# Рейтин на чистом CSS
+# Рейтинг на чистом CSS
 
 За основу взят [пример](https://codepen.io/jamesbarnett/pen/vlpkh) и не много упрощен. [Демо](https://codepen.io/yvv/pen/VrJdNe)
 
